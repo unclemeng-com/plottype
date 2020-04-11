@@ -12,11 +12,4 @@ run A5:SQL
 run create_table_for_blueberry.sql
 ```
 ## Excel VBA setup
-```
-run cmd
->mkdir C:\work\jinmeng\01_work相互参照表\plottype
-```
-copy config.ini to \plottype
-copy data_processing_Exl2DB.XLSM to \plottype
-```
-
+![excel library setting](https://github.com/unclemeng-com/plottype/blob/master/image/vba_library.jpg)
