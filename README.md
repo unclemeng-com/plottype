@@ -1,4 +1,4 @@
-# blueberry
+# Plottype
 product for transport the excel or word data to database
 
 ## Create Database
